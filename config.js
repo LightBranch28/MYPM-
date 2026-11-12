@@ -11,7 +11,7 @@ window.MYPM_CONFIG = {
   sheetEndpoint: "",
 
   // Public contact email shown on the site (footer, contact and FAQ). Leave empty to hide.
-  contactEmail: "",
+  contactEmail: "lightbranch598@gmail.com",
 
   // Optional alternative: any URL that accepts a JSON POST (e.g. Formspree).
   // Only used if the Supabase values above are empty.

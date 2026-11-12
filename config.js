@@ -3,8 +3,8 @@ window.MYPM_CONFIG = {
   // Supabase project that stores waitlist / contact form submissions.
   // Both values are public by design (the table only allows inserts). Find them in
   // Supabase → Project Settings → API. Leave empty to run the form in preview mode.
-  supabaseUrl: "",
-  supabaseKey: "",
+  supabaseUrl: "https://gaosvjhjrcvhdjgcivui.supabase.co",
+  supabaseKey: "sb_publishable_z4RHve8x3xj7rB3FEHQl_A_DvaekEDe",
 
   // Google Sheet in your Drive (see google-sheets/Code.gs). Works alongside Supabase:
   // when both are set, every submission goes to both.

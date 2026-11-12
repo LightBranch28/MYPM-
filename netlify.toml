@@ -1,3 +1,0 @@
-[build]
-  command = "rm -rf site && mkdir site && unzip -oq fashionos-site-ready.zip -d site"
-  publish = "site"
